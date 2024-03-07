@@ -27,7 +27,7 @@ public class test {
         String[] semester2Classes = {"2A", "2B", "2C"};
         String[] semester1 = {"Introduction_To_Computing", "Applied_Physics", "Islamic_Studies", "Calculus", "English"};
         String[] semester2 = {"Programming_Fundamentals", "Multi_Calculus", "Discrete_Structures", "Report_Writing", "Digital_Logic_Design"};
-        String[] teachersNames = {"Sir_Asif", "Mam_Nadia", "Mam_Saira", "Mam_Muneeba", "Mam_Ayesha", "Sir_Majid", "Sir_Tahir", "Mam_Shafia", "Sir_Suleiman", "Mam_Misbah"};
+        String[] teachersNames = {"Dr. Kiran Prakash", "Dr. Priya", "Mrs. Nandini", Mr. Alex", "Mrs. Jessica", "Dr. Vidhya", "Dr. Toqueeb", "Mrs. Divya", "Mrs. Shruthi", "Dr. Ramakrishna"};
         String[] teachersCourses = {"Programming_Fundamentals", "Multi_Calculus", "Discrete_Structures", "Report_Writing", "Digital_Logic_Design", "Introduction_To_Computing", "Applied_Physics", "Islamic_Studies", "Calculus", "English"};
 
         int ask = inputInt("How Many Rooms Are Available ? ");
